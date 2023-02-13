@@ -3,11 +3,11 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "defaultValue": "ji-devops-dev",
+            "defaultValue": "joseidevops-dev",
             "type": "String"
         },
         "hostingPlanName": {
-            "defaultValue": "ji-devops-asp",
+            "defaultValue": "joseidevops-asp",
             "type": "String"
         },
         "appInsightsLocation": {
@@ -15,7 +15,7 @@
             "type": "String"
         },
         "appInsightsName": {
-            "defaultValue": "ji-devops-ai",
+            "defaultValue": "joseidevops-ai",
             "type": "String"
         },        
         "sku": {
@@ -23,11 +23,11 @@
             "type": "String"
         },
         "registryName": {
-            "defaultValue": "ji-devopsreg",
+            "defaultValue": "joseidevopsreg",
             "type": "String"
         },
         "imageName": {
-            "defaultValue": "ji-devopsimage",
+            "defaultValue": "joseidevopsimage",
             "type":"String"
         },
         "registryLocation": {
